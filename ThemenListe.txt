@@ -1,0 +1,110 @@
+Kunst
+Kunst|Bücher
+Kunst|Design
+Kunst|Mode und Beauty
+Kunst|Essen
+Kunst|Darstellende Kunst
+Kunst|Bildende Kunst
+Business
+Business|Karriere
+Business|Unternehmergeist
+Business|Investieren
+Business|Verwaltung
+Business|Marketing
+Business|Gemeinnützig
+Comedy
+Comedy|Comedy-Interviews
+Comedy|Improvisation
+Comedy|Stand-Up
+Bildung
+Bildung|Kurse
+Bildung|Anleitung
+Bildung|Sprachenlernen
+Bildung|Selbstverbesserung
+Fiktion
+Fiktion|Comedy-Fiktion
+Fiktion|Drama
+Fiktion|Science Fiction
+Regierung
+Geschichte
+Gesundheit und Fitness
+Gesundheit und Fitness|Alternative Medizin
+Gesundheit und Fitness|Fitness
+Gesundheit und Fitness|Medizin
+Gesundheit und Fitness|Psychische Gesundheit
+Gesundheit und Fitness|Ernährung
+Gesundheit und Fitness|Sexualität
+Kinder und Familie
+Kinder und Familie|Bildung für Kinder
+Kinder und Familie|Erziehung
+Kinder und Familie|Haustiere und Tiere
+Kinder und Familie|Hörspiele für Kinder
+Freizeit
+Freizeit|Animation und Manga
+Freizeit|Autos
+Freizeit|Luftfahrt
+Freizeit|Kunsthandwerk
+Freizeit|Spiele
+Freizeit|Hobbys
+Freizeit|Heim und Garten
+Freizeit|Videospiele
+Musik
+Musik|Musikkommentar
+Musik|Musikgeschichte
+Musik|Interviews im Bereich Musik
+News
+News|Business-Nachrichten
+News|Nachrichten vom Tage
+News|Unterhaltungsnachrichten
+News|Nachrichtenkommentar
+News|Politik
+News|Sportnachrichten
+News|Nachrichten zu Technologie
+Religion und Spiritualität
+Religion und Spiritualität|Buddhismus
+Religion und Spiritualität|Christentum
+Religion und Spiritualität|Hinduismus
+Religion und Spiritualität|Islam
+Religion und Spiritualität|Judentum
+Religion und Spiritualität|Religion
+Religion und Spiritualität|Spiritualität
+Wissenschaft
+Wissenschaft|Astronomie
+Wissenschaft|Chemie
+Wissenschaft|Geowissenschaften
+Wissenschaft|Biowissenschaften
+Wissenschaft|Mathematik
+Wissenschaft|Naturwissenschaften
+Wissenschaft|Natur
+Wissenschaft|Physik
+Wissenschaft|Sozialwissenschaften
+Gesellschaft und Kultur
+Gesellschaft und Kultur|Dokumentation
+Gesellschaft und Kultur|Persönliches Journalling
+Gesellschaft und Kultur|Philosophie
+Gesellschaft und Kultur|Orte und Reisen
+Gesellschaft und Kultur|Beziehungen
+Sport
+Sport|Baseball
+Sport|Basketball
+Sport|Kricket
+Sport|Fantasy-Sport
+Sport|American Football
+Sport|Golf
+Sport|Hockey
+Sport|Rugby
+Sport|Laufen
+Sport|Fußball
+Sport|Schwimmen
+Sport|Tennis
+Sport|Volleyball
+Sport|Wildnis
+Sport|Wrestling
+Technologie
+True Crime
+Fernsehen und Kino
+Fernsehen und Kino|Nach Shows
+Fernsehen und Kino|Filmgeschichte
+Fernsehen und Kino|Interviews zu Filmen
+Fernsehen und Kino|Filmrezensionen
+Fernsehen und Kino|TV-Rezensionen
