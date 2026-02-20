@@ -1,2 +1,2 @@
 Ich mache mit einem Freund einen Podcast und wir haben wöchentlich wechselnde Themen. Heutiges Thema ist ${Thema}. 
-Ich habe eine wiederkehrende Rubrik wo ich K.I. einen Input zu dem Thema geben lasse. Heute bist du dran. 
+Ich habe eine wiederkehrende Rubrik wo ich K.I. einen Input zu dem Thema geben lasse. Heute bist du dran. Kurz und prägnant.
